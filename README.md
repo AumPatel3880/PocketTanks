@@ -1,11 +1,20 @@
-# PocketTanks
-Pocket Tanks is the fast-paced artillery game that is simple to learn, and fun to master.  
-It is a very interactive game where the players try to hit a target on the other side of wall. 
-In order to win game players uses some different methods like changing the height of the wall, the position of the wall, angles, wind speed as well as power. 
-One can only win a game if the opposition gets bury in a mound of dirt or assail him with a barrage of bullets.
-This model is based on the classic game Tank Wars. Game starts with two tanks, where one of the tanks fires on their target of another tank to smash them with fireball, but before reaching to the target fireball needs to over comes some obstacles like wall which is in between both tanks. So, for that player must determine the wall height and wall position. Gravity and wind also play an important role. Now, tank link with guns and when the fireball is shot from the tank, it leaves x and y origin along with velocity. The code prompts the fireball to die as soon as it is reached in the boundaries of the map. 
-   
-Pocket tank is the perfect quick game which can be play with friends and family, you will find yourself hooked for hours of play!! And from childhood I was curious to know how developers are making this game by creating such small details like the fireballs not going through the walls by identifying patch colors, how the position of the turtle changes when hit by fireballs. We just understand working and applications of tank1 created the game which can be played by two players. The agent Tank is act upon wall height, wall position, wind flow. So as a result, player has to set angle and power accordingly to hit the fireball at designated target.
+Introduction:
+This project aimed to develop a pocket tank game simulation model using NetLogo software and Scala language as the backend. The project was undertaken by a team of four students with expertise in agent-based artificial intelligence (AI). The objective was to create an interactive and challenging game environment where AI-controlled tanks could strategize and compete against each other.
 
+Methodology:
 
+Game Design and Development: The team designed and developed a pocket tank game with intuitive controls and a user-friendly interface. The game incorporated realistic physics and mechanics to enhance the gameplay experience.
 
+Agent-Based AI Implementation: The core focus of the project was to create intelligent AI agents for the tanks. The team utilized NetLogo, a powerful multi-agent simulation environment, to implement the AI algorithms. Scala programming language was employed to handle the backend processing and logic.
+
+AI Decision-Making: The AI agents were programmed to make strategic decisions based on various factors, including the positions of opponents, available ammunition, terrain conditions, and their own tank's health. The team implemented sophisticated algorithms, such as pathfinding, target prioritization, and trajectory prediction, to enhance the AI's decision-making capabilities.
+
+Learning and Adaptation: To further improve the AI agents' performance, the team incorporated machine learning techniques. The AI agents were trained using reinforcement learning algorithms, allowing them to learn from their experiences and adapt their strategies over time. This enabled the agents to become more proficient and challenging opponents as the game progressed.
+
+Results and Evaluation:
+The developed pocket tank game simulation model successfully showcased the team's efforts in implementing agent-based AI techniques. The AI-controlled tanks exhibited intelligent decision-making, realistic behaviors, and adaptive strategies. The gameplay experience was engaging and challenging, providing players with an immersive and enjoyable experience.
+
+Throughout the development process, the team conducted rigorous testing and evaluation to identify and address any bugs, performance issues, or imbalances in the game mechanics. User feedback and playtesting were also utilized to refine and optimize the game's features, controls, and overall experience.
+
+Conclusion:
+In conclusion, the pocket tank game simulation model developed by the team effectively demonstrated the integration of agent-based AI techniques using NetLogo and Scala. The project highlighted the team's proficiency in game design, AI algorithm implementation, and machine learning. The resulting game provides an entertaining and competitive experience for players while showcasing the potential of AI in gaming environments.
